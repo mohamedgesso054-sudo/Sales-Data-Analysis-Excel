@@ -41,14 +41,7 @@
 
 ## الأدوات والتقنيات المستخدمة
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Power BI
-* Excel
-* SQL
+Data cleaning, analysis, and dashboard design using Advanced Excel
 
 ## النتائج المتوقعة
 
